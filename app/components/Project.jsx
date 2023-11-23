@@ -11,7 +11,7 @@ export default function Project() {
          {/* <Code className="mx-auto inline-block w-10 mb-4" />  */}
          
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Apps I&apos;ve Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Below are the Projects I have Developed using React and React-Native.
